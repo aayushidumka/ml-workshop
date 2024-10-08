@@ -1,5 +1,6 @@
 # ml-workshop
 UT Austin Management Information Systems Association: Intro to ML Workshop
+
 Created by: Aayushi Dumka & Saffat Reza
 
 PURPOSE: This workshop was designed as an introduction to Machine Learning workshop.
