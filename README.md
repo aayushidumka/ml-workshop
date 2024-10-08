@@ -1,7 +1,7 @@
 # ml-workshop
-UT Austin Management Information Systems Association: Intro to ML Workshop
+UT Austin Management Information Systems Association (MISA): Intro to ML Workshop
 
-Created by: Aayushi Dumka & Saffat Reza
+Created by: Aayushi Dumka & Saffat Reza (MISA Academic Directors)
 
 PURPOSE: This workshop was designed as an introduction to Machine Learning workshop.
 
